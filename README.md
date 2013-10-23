@@ -26,9 +26,9 @@ Github -- https://github.com/GrinnellAppDev
 
 ###Contributors
 Special Thanks to the Grinnell Appdev Team!
-*Colin Tremblay '14 (@tremblay)*
-*Daniel Torres '15 (@torresda)*
-*Spencer Liberto '15 (@spencerbliberto)*
-*Daniel Goldstein '16 (@goldstei1)*
+* Colin Tremblay '14 (@tremblay)
+* Daniel Torres '15 (@torresda)
+* Spencer Liberto '15 (@spencerbliberto)
+* Daniel Goldstein '16 (@goldstei1)
 
 For App Support, feedback, suggestions etc. please email appdev@grinnell.edu
