@@ -7,15 +7,15 @@ Static informational pages for the DB apps
 
 ###About
 
-The KDIC Streaming App is a convenient way for anyone to tune into their favorite radio station, KDIC, based out of Grinnell College, IA. The app allows you to pause and play the station, and should eventually pull metadata from the stream to display. On top of streaming KDIC, the app also brings the user content from the KDIC website (http://kdic.grinnell.edu), such as the program schedule.
+DB is the mobile version of Grinnell College's campus directory. DB is fully supported on iOS and is coming soon on Android. It is optimized for both phone and tablet layouts.
 
-###Get KDIC
+###Get DB
 
-KDIC is available for download at the following locations:
+DB is available for download at the following locations:
 
 ###Application Packages
 
-* iOS Coming Soon
+* [iOS](https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8)
 * Android Coming Soon
 
 ###Source
@@ -29,6 +29,6 @@ Special Thanks to the Grinnell Appdev Team!
 * Colin Tremblay '14 (@tremblay)
 * Daniel Torres '15 (@torresda)
 * Spencer Liberto '15 (@spencerbliberto)
-* Patrick Triest '16 (@triestpa)
+* Daniel Goldstein '16 (@goldstei1)
 
 For App Support, feedback, suggestions etc. please email appdev@grinnell.edu
